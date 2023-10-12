@@ -1,0 +1,3822 @@
+[
+    {
+        "name": "Deleted Daily Event",
+        "start": "1/1/2024, 3:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2024-01-01T11:00:00.000Z",
+                "freq": 3,
+                "count": 5,
+                "interval": 1
+            },
+            "options": {
+                "freq": 3,
+                "dtstart": "2024-01-01T11:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 5,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    11
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Monday weekly",
+        "start": "1/1/2024, 1:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2024-01-01T09:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2024-01-01T09:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    9
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Monthly weird day",
+        "start": "12/31/2023, 4:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-31T12:00:00.000Z",
+                "freq": 1,
+                "interval": 1
+            },
+            "options": {
+                "freq": 1,
+                "dtstart": "2023-12-31T12:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [
+                    31
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    12
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Sunday weekly",
+        "start": "12/31/2023, 1:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-31T09:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-31T09:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    6
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    9
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Saturday Weekly",
+        "start": "12/30/2023, 1:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-30T09:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-30T09:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    5
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    9
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Weekly Event end on date",
+        "start": "12/28/2023, 4:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-28T12:00:00.000Z",
+                "freq": 2,
+                "until": "2024-02-22T07:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-28T12:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2024-02-22T07:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    12
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Weekly event 4 times",
+        "start": "12/27/2023, 5:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-27T13:00:00.000Z",
+                "freq": 2,
+                "count": 4,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-27T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 4,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Yearly Event",
+        "start": "12/27/2023, 4:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-27T12:00:00.000Z",
+                "freq": 0,
+                "interval": 1
+            },
+            "options": {
+                "freq": 0,
+                "dtstart": "2023-12-27T12:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": [
+                    12
+                ],
+                "bymonthday": [
+                    27
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    12
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Monthly Event",
+        "start": "12/27/2023, 3:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-27T11:00:00.000Z",
+                "freq": 1,
+                "interval": 1
+            },
+            "options": {
+                "freq": 1,
+                "dtstart": "2023-12-27T11:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [
+                    27
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    11
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Daily Event",
+        "start": "12/27/2023, 2:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-27T10:00:00.000Z",
+                "freq": 3,
+                "interval": 1
+            },
+            "options": {
+                "freq": 3,
+                "dtstart": "2023-12-27T10:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    10
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Weekly Event",
+        "start": "12/27/2023, 1:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-27T09:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-27T09:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    9
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Custom Event",
+        "start": "12/25/2023, 5:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-12-25T13:00:00.000Z",
+                "freq": 2,
+                "until": "2024-02-24T07:59:59.000Z",
+                "interval": 1,
+                "byweekday": [
+                    {
+                        "weekday": 0
+                    },
+                    {
+                        "weekday": 3
+                    },
+                    {
+                        "weekday": 4
+                    },
+                    {
+                        "weekday": 5
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-12-25T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2024-02-24T07:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0,
+                    3,
+                    4,
+                    5
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Symphony Orchestra",
+        "start": "10/12/2023, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-10-13T02:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-10-13T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Wind Symphony",
+        "start": "10/10/2023, 5:15:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-10-11T00:15:00.000Z",
+                "freq": 2,
+                "interval": 1,
+                "byweekday": [
+                    {
+                        "weekday": 1
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-10-11T00:15:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    15
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Wind Symphony",
+        "start": "10/8/2023, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-10-09T02:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-10-09T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Podcast Recording",
+        "start": "10/2/2023, 2:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-10-02T21:00:00.000Z",
+                "freq": 2,
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-10-02T21:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    21
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Sabbath planning with Jose and Andreas",
+        "start": "9/28/2023, 2:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-09-28T21:00:00.000Z",
+                "freq": 2
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-09-28T21:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    21
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jackie lesson",
+        "start": "9/6/2023, 3:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-09-06T22:30:00.000Z",
+                "freq": 2
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-09-06T22:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Dana Lessons",
+        "start": "5/17/2023, 6:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-05-18T01:30:00.000Z",
+                "freq": 2,
+                "until": "2023-05-25T01:29:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-05-18T01:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-05-25T01:29:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Gwendy aurora lesson",
+        "start": "5/2/2023, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-05-03T02:00:00.000Z",
+                "freq": 2,
+                "until": "2023-05-31T02:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-05-03T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-05-31T02:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Rachel lesson",
+        "start": "4/21/2023, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-04-21T23:30:00.000Z",
+                "freq": 2,
+                "until": "2023-10-06T23:29:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-04-21T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-10-06T23:29:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Rachel first lesson",
+        "start": "4/7/2023, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-04-07T23:30:00.000Z",
+                "freq": 2,
+                "until": "2023-04-14T23:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-04-07T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-04-14T23:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Marissa kids lesson",
+        "start": "4/6/2023, 2:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-04-06T21:00:00.000Z",
+                "freq": 2,
+                "until": "2023-05-25T20:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-04-06T21:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-05-25T20:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    21
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Trayce Hite",
+        "start": "4/4/2023, 6:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-04-05T01:00:00.000Z",
+                "freq": 2,
+                "until": "2023-06-22T06:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-04-05T01:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-06-22T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Dana Lessons",
+        "start": "3/29/2023, 6:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-30T01:30:00.000Z",
+                "freq": 2,
+                "until": "2023-05-11T01:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-30T01:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-05-11T01:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "April Lessons",
+        "start": "3/29/2023, 4:45:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-29T23:45:00.000Z",
+                "freq": 2,
+                "until": "2023-05-24T23:44:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-29T23:45:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-05-24T23:44:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    45
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Trayce Hite",
+        "start": "3/20/2023, 5:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-21T00:30:00.000Z",
+                "freq": 2,
+                "until": "2023-03-28T00:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-21T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-28T00:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Sean lesson",
+        "start": "3/14/2023, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-14T23:30:00.000Z",
+                "freq": 2,
+                "until": "2023-08-22T23:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-14T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-08-22T23:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Trayce Hite",
+        "start": "3/13/2023, 5:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-14T00:00:00.000Z",
+                "freq": 2,
+                "until": "2023-03-20T23:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-14T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-20T23:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Quincy 2nd Lesson",
+        "start": "3/2/2023, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-03T00:30:00.000Z",
+                "freq": 2,
+                "until": "2023-03-10T00:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-03T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-10T00:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Hattie lesson",
+        "start": "3/1/2023, 2:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-03-01T22:30:00.000Z",
+                "freq": 2,
+                "until": "2023-06-14T21:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-03-01T22:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-06-14T21:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Quincy Lesson",
+        "start": "2/27/2023, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-28T00:30:00.000Z",
+                "freq": 2,
+                "until": "2023-03-07T00:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-28T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-07T00:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Marissa kids lesson",
+        "start": "2/27/2023, 2:15:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-27T22:15:00.000Z",
+                "freq": 2,
+                "until": "2023-03-27T21:15:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-27T22:15:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-27T21:15:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    15
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jackie lesson",
+        "start": "2/22/2023, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-23T00:00:00.000Z",
+                "freq": 2,
+                "until": "2023-08-30T23:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-23T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-08-30T23:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Marissa lessons",
+        "start": "2/22/2023, 2:45:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-22T22:45:00.000Z",
+                "freq": 2,
+                "until": "2023-02-22T22:45:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-22T22:45:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-02-22T22:45:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    45
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "April Lessons",
+        "start": "2/15/2023, 4:45:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-16T00:45:00.000Z",
+                "freq": 2,
+                "until": "2023-03-29T23:44:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-16T00:45:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-29T23:44:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    45
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Hattie lesson",
+        "start": "2/15/2023, 1:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-15T21:00:00.000Z",
+                "freq": 2,
+                "until": "2023-02-15T21:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-15T21:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-02-15T21:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    21
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jacki Lesson",
+        "start": "2/14/2023, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-15T00:00:00.000Z",
+                "freq": 2,
+                "until": "2023-02-22T00:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-15T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-02-22T00:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Crystal Lesson",
+        "start": "2/13/2023, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-14T00:00:00.000Z",
+                "freq": 2,
+                "until": "2023-03-20T23:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-14T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-20T23:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Marissa kids lesson",
+        "start": "2/13/2023, 2:15:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-13T22:15:00.000Z",
+                "freq": 2,
+                "until": "2023-02-20T22:15:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-13T22:15:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-02-20T22:15:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    15
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Small group",
+        "start": "2/8/2023, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-09T03:00:00.000Z",
+                "freq": 2,
+                "until": "2023-03-09T02:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-09T03:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-03-09T02:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    3
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Tara lesson",
+        "start": "2/8/2023, 2:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-02-08T22:00:00.000Z",
+                "freq": 2,
+                "until": "2023-08-23T21:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-02-08T22:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-08-23T21:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "ABG Calls",
+        "start": "1/25/2023, 12:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-01-25T20:00:00.000Z",
+                "freq": 2,
+                "count": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-01-25T20:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 1,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    20
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Kai Lesson",
+        "start": "1/25/2023, 11:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-01-25T19:00:00.000Z",
+                "freq": 2,
+                "until": "2023-10-04T17:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-01-25T19:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-10-04T17:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    19
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "ABG Calls",
+        "start": "1/25/2023, 7:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2023-01-25T15:00:00.000Z",
+                "freq": 2,
+                "count": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2023-01-25T15:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 1,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    15
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah lesson",
+        "start": "12/5/2022, 3:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-12-05T23:30:00.000Z",
+                "freq": 2
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-12-05T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "JoJo Lesson",
+        "start": "11/11/2022, 1:15:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-11-11T21:15:00.000Z",
+                "freq": 2,
+                "until": "2023-01-20T21:15:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-11-11T21:15:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2023-01-20T21:15:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    21
+                ],
+                "byminute": [
+                    15
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jojo ",
+        "start": "10/27/2022, 3:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-10-27T22:30:00.000Z",
+                "freq": 2,
+                "until": "2022-12-01T23:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-10-27T22:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-12-01T23:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Small group",
+        "start": "10/19/2022, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-10-20T02:00:00.000Z",
+                "freq": 2,
+                "until": "2022-12-22T02:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-10-20T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-12-22T02:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah lesson",
+        "start": "9/26/2022, 3:15:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-09-26T22:15:00.000Z",
+                "freq": 2,
+                "until": "2022-12-05T23:14:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-09-26T22:15:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-12-05T23:14:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    15
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Kai Piano Lesson",
+        "start": "9/12/2022, 10:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-09-12T17:00:00.000Z",
+                "freq": 2,
+                "until": "2022-12-26T18:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-09-12T17:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-12-26T18:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    17
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Mivoden App Check In",
+        "start": "4/26/2022, 1:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-04-26T20:00:00.000Z",
+                "freq": 2,
+                "until": "2022-08-16T20:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-04-26T20:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-16T20:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    20
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Drive",
+        "start": "4/5/2022, 7:45:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-04-06T02:45:00.000Z",
+                "freq": 2,
+                "until": "2022-08-17T02:45:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-04-06T02:45:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-17T02:45:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    45
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Dana lessons",
+        "start": "4/5/2022, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "US/Pacific",
+                "dtstart": "2022-04-06T02:00:00.000Z",
+                "freq": 2,
+                "until": "2022-08-17T02:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-04-06T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-17T02:00:00.000Z",
+                "tzid": "US/Pacific",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Drive",
+        "start": "4/5/2022, 6:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-04-06T01:30:00.000Z",
+                "freq": 2,
+                "until": "2022-08-17T01:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-04-06T01:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-17T01:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Skiing",
+        "start": "3/29/2022, 6:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-29T13:00:00.000Z",
+                "freq": 2,
+                "count": 3,
+                "byweekday": [
+                    {
+                        "weekday": 0
+                    },
+                    {
+                        "weekday": 1
+                    },
+                    {
+                        "weekday": 2
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-29T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 3,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Skiing",
+        "start": "3/21/2022, 6:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-21T13:00:00.000Z",
+                "freq": 2,
+                "count": 5,
+                "byweekday": [
+                    {
+                        "weekday": 0
+                    },
+                    {
+                        "weekday": 1
+                    },
+                    {
+                        "weekday": 2
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-21T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 5,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Praxis Small Group",
+        "start": "3/7/2022, 5:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-08T01:30:00.000Z",
+                "freq": 2,
+                "until": "2022-04-26T00:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-08T01:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-04-26T00:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Buffer",
+        "start": "3/7/2022, 5:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-08T01:00:00.000Z",
+                "freq": 2,
+                "until": "2022-04-26T00:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-08T01:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-04-26T00:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Caleb Simpson Lesson",
+        "start": "3/7/2022, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-08T00:00:00.000Z",
+                "freq": 2,
+                "until": "2022-08-29T22:59:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-08T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-29T22:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah Lesson",
+        "start": "3/7/2022, 3:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2022-03-07T23:30:00.000Z",
+                "freq": 2,
+                "until": "2022-08-29T22:29:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-03-07T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-08-29T22:29:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jojo and Delia lessons",
+        "start": "2/3/2022, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "US/Pacific",
+                "dtstart": "2022-02-04T00:00:00.000Z",
+                "freq": 2,
+                "until": "2022-02-04T00:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-02-04T00:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-02-04T00:00:00.000Z",
+                "tzid": "US/Pacific",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jojo and Delia lessons",
+        "start": "1/26/2022, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "US/Pacific",
+                "dtstart": "2022-01-27T00:30:00.000Z",
+                "freq": 2,
+                "until": "2022-02-03T00:29:59.000Z",
+                "interval": 1
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2022-01-27T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-02-03T00:29:59.000Z",
+                "tzid": "US/Pacific",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Jojo and Delia lessons",
+        "start": "11/18/2021, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "US/Pacific",
+                "dtstart": "2021-11-19T00:30:00.000Z",
+                "freq": 2,
+                "until": "2022-01-21T00:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2021-11-19T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2022-01-21T00:30:00.000Z",
+                "tzid": "US/Pacific",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah's lesson",
+        "start": "3/15/2020, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2020-03-15T23:00:00.000Z",
+                "freq": 2,
+                "until": "2020-06-19T06:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2020-03-15T23:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2020-06-19T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    6
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah’s piano Lesson",
+        "start": "2/5/2020, 5:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2020-02-06T01:00:00.000Z",
+                "freq": 2,
+                "until": "2020-03-18T23:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2020-02-06T01:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2020-03-18T23:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Bryan lessons",
+        "start": "1/20/2020, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2020-01-21T00:30:00.000Z",
+                "freq": 2,
+                "until": "2020-03-21T06:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2020-01-21T00:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2020-03-21T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    0
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Be at sanctuary",
+        "start": "1/13/2020, 11:20:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2020-01-13T19:20:00.000Z",
+                "freq": 3,
+                "count": 5
+            },
+            "options": {
+                "freq": 3,
+                "dtstart": "2020-01-13T19:20:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 5,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    19
+                ],
+                "byminute": [
+                    20
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Noah’s piano Lesson",
+        "start": "11/11/2019, 3:45:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-11-11T23:45:00.000Z",
+                "freq": 2,
+                "until": "2020-01-27T23:45:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-11-11T23:45:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2020-01-27T23:45:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    45
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Supper",
+        "start": "10/28/2019, 6:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-10-29T01:30:00.000Z",
+                "freq": 3,
+                "until": "2019-10-31T01:30:00.000Z"
+            },
+            "options": {
+                "freq": 3,
+                "dtstart": "2019-10-29T01:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2019-10-31T01:30:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Stop by to see Katie at Campus Sound",
+        "start": "9/30/2019, 4:30:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-09-30T23:30:00.000Z",
+                "freq": 2,
+                "count": 2
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-09-30T23:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 2,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Vespers weekly meeting",
+        "start": "9/25/2019, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-09-25T23:00:00.000Z",
+                "freq": 2,
+                "until": "2019-12-13T07:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-09-25T23:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2019-12-13T07:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Vespers Meeting",
+        "start": "5/23/2019, 4:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-05-23T23:00:00.000Z",
+                "freq": 2,
+                "count": 3
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-05-23T23:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": 3,
+                "until": null,
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    23
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Campus Sound",
+        "start": "4/2/2019, 1:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-04-02T20:00:00.000Z",
+                "freq": 2,
+                "until": "2019-06-07T06:59:59.000Z",
+                "byweekday": [
+                    {
+                        "weekday": 1
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-04-02T20:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2019-06-07T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    20
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Campus Sound",
+        "start": "1/28/2019, 2:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-01-28T22:00:00.000Z",
+                "freq": 2,
+                "until": "2019-03-16T06:59:59.000Z",
+                "byweekday": [
+                    {
+                        "weekday": 0
+                    },
+                    {
+                        "weekday": 2
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-01-28T22:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2019-03-16T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0,
+                    2,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    22
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Campus Sound",
+        "start": "1/25/2019, 10:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2019-01-25T18:00:00.000Z",
+                "freq": 2,
+                "until": "2019-03-16T06:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2019-01-25T18:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2019-03-16T06:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    18
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "CS",
+        "start": "10/5/2018, 9:00:00 AM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2018-10-05T16:00:00.000Z",
+                "freq": 2,
+                "until": "2018-12-19T07:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2018-10-05T16:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2018-12-19T07:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    4
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    16
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "CS",
+        "start": "10/1/2018, 1:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2018-10-01T20:00:00.000Z",
+                "freq": 2,
+                "until": "2018-12-06T21:00:00.000Z",
+                "byweekday": [
+                    {
+                        "weekday": 0
+                    },
+                    {
+                        "weekday": 1
+                    },
+                    {
+                        "weekday": 2
+                    },
+                    {
+                        "weekday": 3
+                    }
+                ]
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2018-10-01T20:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2018-12-06T21:00:00.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    20
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    },
+    {
+        "name": "Big band practice",
+        "start": "1/4/2017, 7:00:00 PM",
+        "rruleOptions": {
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "tzid": "America/Los_Angeles",
+                "dtstart": "2017-01-05T03:00:00.000Z",
+                "freq": 2,
+                "until": "2017-06-08T01:59:59.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "dtstart": "2017-01-05T03:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": "2017-06-08T01:59:59.000Z",
+                "tzid": "America/Los_Angeles",
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    3
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    3
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            }
+        }
+    }
+]
