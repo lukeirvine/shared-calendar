@@ -12,12 +12,14 @@ import React, { useEffect, useState } from 'react';
 import { Calendar, momentLocalizer } from 'react-big-calendar';
 import moment from 'moment';
 import axios from 'axios';
+import styles from "./Homepage.module.css"
 import "react-big-calendar/lib/css/react-big-calendar.css";
+import { Spinner } from 'react-bootstrap';
 
 const localizer = momentLocalizer(moment);
 
 const url = "/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q";
-const urlClean = "/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q&type=CLEANED";
+const urlClean = "/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q&type=recurring";
 
 export default function Homepage(props) {
 
@@ -44,12 +46,21 @@ export default function Homepage(props) {
   }, []);
 
   return <>
+    <h1 className={styles.header}>Luke's Availability</h1>
     {data && <Calendar
       localizer={localizer}
       events={data}
       startAccessor="start"
       endAccessor="end"
-      style={{ height: 700 }}
+      min={new Date().setHours(8, 0, 0)}
+      max={new Date().setHours(22, 0, 0)}
+      drilldownView="week"
+      style={{ height: 600 }}
     />}
+    {!data && <div className={styles.loadingContainer}>
+      <Spinner className={styles.spinner} size="lg" animation="grow" variant="secondary"/>
+      <Spinner className={styles.spinner} size="lg" animation="grow" variant="secondary"/>
+      <Spinner className={styles.spinner} size="lg" animation="grow" variant="secondary"/>
+    </div>}
   </>
 };

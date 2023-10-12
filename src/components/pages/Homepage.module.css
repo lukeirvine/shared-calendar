@@ -8,6 +8,20 @@
   Homepage.module.css
 */
 
+.header {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+.loadingContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: 300px;
+}
+
 /* Screen size specs */
 
 @media only screen and (max-width: 576px) {
