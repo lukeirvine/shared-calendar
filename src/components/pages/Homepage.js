@@ -19,7 +19,12 @@ import { Spinner } from 'react-bootstrap';
 const localizer = momentLocalizer(moment);
 
 const url = "/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q";
-const urlClean = "http://cgi.mixflip.io:3000/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q&type=recurring";
+let urlClean = "/calendar?url=http://p14-caldav.icloud.com/published/2/MjAyMTg3OTA4MDIwMjE4N8Q6tQ54FIoNO1q9goLDmbm588BFggVh79qzKsIGEXivCQFafUr07Tc3E7PINSAkItOKsVYXJl5oovJwf3huT3Q&type=recurring";
+// this variable will force the dev app to use the production server
+const USE_PROD_SERV = true;
+if (window.location.hostname !== "localhost" || USE_PROD_SERV) {
+  urlClean = "http://cgi.mixflip.io:3000" + urlClean;
+}
 
 export default function Homepage(props) {
 
